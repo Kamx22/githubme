@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
   
 }
 
@@ -23,6 +24,7 @@
 
   width: 80%;
   height: auto;
+  
 }
 
 ul {
@@ -37,7 +39,9 @@ li {
   margin-top: 80px;
   background-color: rgb(131, 109, 109);
   cursor: pointer;
-  
+  justify-content: center;
+  align-items: center;
+  margin-right: 40px;
 }
 
 .question-text {
