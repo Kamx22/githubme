@@ -152,7 +152,7 @@ const restartGame = () => {
   return (
     <div className="App">
       {/* 1. Header  */}
-      <h1 className="header"> Quiz App</h1>
+      <h1 className="header"> Quiz App </h1>
       {/* 2 Current Question */}
       <h2> Current Score: {score} </h2>
       {showFinalResults ? (
